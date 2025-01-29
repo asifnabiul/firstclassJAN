@@ -1,2 +1,2 @@
 # firstclassJAN
-First Programming Class
+First Programming Class of 2025
